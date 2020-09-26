@@ -1,6 +1,5 @@
 # Luminar4 Full Versions
 -------------
-![alt-текст](https://images-na.ssl-images-amazon.com/images/I/8163.. "Luminar4")
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
@@ -10,7 +9,6 @@
 * RAM - 8 GB or more
 * Disk space - 10 GB free space
 
-![alt-текст](https://graydonschwartz.com/wp-content/uploads/2019/1.. "Luminar4")
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
